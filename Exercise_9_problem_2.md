@@ -6,7 +6,7 @@ In this problem we continue to learn how to turn latitude and longitude coordina
 The coordinates are in WGS84 decimal degrees (EPSG:4326), and the data is stored in `some_posts.csv` comma separated file in the folder `data`. First rows of the data look like this:
  
 ```
-lat,lon,timestamp,userid  
+lat,lon,timestamp,userid   
 -24.980792492,31.484633302,2015-07-07 03:02,66487960
 -25.499224667,31.508905612,2015-07-07 03:18,65281761
 -24.342578456,30.930866066,2015-03-07 03:38,90916112
