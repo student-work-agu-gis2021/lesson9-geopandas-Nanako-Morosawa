@@ -7,7 +7,7 @@
 # 
 
 # YOUR CODE HERE 1 to read data   
-import geopandas as gpd
+import geopandas as gpd 
 from pyproj import CRS
 data=gpd.read_file('Kruger_posts.shp')
 
