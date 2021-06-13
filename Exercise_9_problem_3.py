@@ -6,7 +6,7 @@
 # In this problem the aim is to calculate the "distance" in meters that the individuals have travelled according the social media posts (Euclidean distances between points). In this problem, we will need the `userid` -column an the points created in the previous problem. You will need the shapefile `Kruger_posts.shp` generated in Problem 2 as input file.
 # 
 
-# YOUR CODE HERE 1 to read data 
+# YOUR CODE HERE 1 to read data  
 import geopandas as gpd
 from pyproj import CRS
 data=gpd.read_file('Kruger_posts.shp')
