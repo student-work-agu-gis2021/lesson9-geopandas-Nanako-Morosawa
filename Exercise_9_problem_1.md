@@ -8,7 +8,7 @@ The codeblocks below help you get started with the task. More detailed instructi
 
 
 
-```python 
+```python  
 import os
 import geopandas as gpd
 import matplotlib.pyplot as plt
